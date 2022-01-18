@@ -1,0 +1,16 @@
+.jumbo{
+  background-color: rgb(6, 61, 134);
+}
+
+.listStyle{
+  color: rgb(2, 126, 41);
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  list-style-type: none;
+  text-align: right;
+}
+
+.listStyle li{
+  padding: 0.5rem;
+}
